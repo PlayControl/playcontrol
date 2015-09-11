@@ -1,2 +1,2 @@
 # playcontrol-npm
-PlayControl npm package for easy access to the API
+PlayControl.io npm package for easy access to the API

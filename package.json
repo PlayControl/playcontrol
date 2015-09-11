@@ -1,0 +1,24 @@
+{
+  "name": "playcontrol",
+  "version": "0.0.1",
+  "description": "PlayControl.io npm package for easy access to the API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PlayControl/playcontrol-npm.git"
+  },
+  "keywords": [
+    "mediaplayer",
+    "multiroom",
+    "music"
+  ],
+  "author": "Lossless Digital UG <office@lossless.digital> (https://lossless.digital)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PlayControl/playcontrol-npm/issues"
+  },
+  "homepage": "https://playcontrol.io"
+}
