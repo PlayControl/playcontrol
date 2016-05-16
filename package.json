@@ -1,6 +1,6 @@
 {
   "name": "playcontrol",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "playcontrol software for Linux, OSX and Windows",
   "main": "index.js",
   "scripts": {
