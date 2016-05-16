@@ -1,5 +1,5 @@
 # playcontrol
-playcontrol software for Linux, OSX and Windows.
+playcontrol software for Linux, OSX and Windows
 
 ## Status
 
