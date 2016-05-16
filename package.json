@@ -1,6 +1,6 @@
 {
   "name": "playcontrol",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "PlayControl.io npm package for easy access to the API",
   "main": "index.js",
   "scripts": {
